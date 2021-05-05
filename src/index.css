@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.card-border {
+  border: 1px solid gray;
+}
+
+.img-box {
+  height: 8rem;
+  object-fit: contain;
+}
+
+.card-body-box {
+  height: 15rem;
+  overflow: auto;
+}
+
+footer {
+  background-color: #CDCDCD;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+footer a {
+  color: black;
+}
+
+footer a:hover {
+  color: green;
+  text-decoration: none;
+}
