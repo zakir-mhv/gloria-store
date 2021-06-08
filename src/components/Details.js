@@ -39,7 +39,7 @@ function Details() {
     );
   } else {
     return (
-      <div className="container py-3 mb-5">
+      <div className="container py-3">
         {/* title */}
         <div className="row justify-content-center">
           <div className="col-10 text-center my-3">
